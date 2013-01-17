@@ -4,7 +4,7 @@
   <title><![CDATA[Mark McCoy]]></title>
   <link href="http://BradGunnerSGT.github.com/markmccoy/atom.xml" rel="self"/>
   <link href="http://BradGunnerSGT.github.com/markmccoy/"/>
-  <updated>2013-01-17T17:05:18-06:00</updated>
+  <updated>2013-01-17T17:16:27-06:00</updated>
   <id>http://BradGunnerSGT.github.com/markmccoy/</id>
   <author>
     <name><![CDATA[Mark McCoy]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[the 'other' mark mccoy]]></title>
+    <link href="http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/17/the-other-mark-mccoy/"/>
+    <updated>2013-01-17T17:11:00-06:00</updated>
+    <id>http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/17/the-other-mark-mccoy</id>
+    <content type="html"><![CDATA[<p>By the way, if you search Google for my name, you might find markmccoy.com (not
+linking it, you can go there if you want but I don&#8217;t recommend it).  <strong>That is
+not me.</strong>  That guy is a crazy conspiracy theorist and probably my exact
+opposite.  Maybe he&#8217;s a doppelganger who has a goatee (Evil Me).</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[welcome to my new site]]></title>
