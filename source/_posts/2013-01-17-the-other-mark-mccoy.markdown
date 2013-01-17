@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the 'other' mark mccoy"
+title: "the 'other' Mark McCoy"
 date: 2013-01-17 17:11
 comments: true
 categories: 
