@@ -4,7 +4,7 @@
   <title><![CDATA[Musically Geeky]]></title>
   <link href="http://BradGunnerSGT.github.com/markmccoy/atom.xml" rel="self"/>
   <link href="http://BradGunnerSGT.github.com/markmccoy/"/>
-  <updated>2013-01-18T10:57:53-06:00</updated>
+  <updated>2013-01-22T21:38:41-06:00</updated>
   <id>http://BradGunnerSGT.github.com/markmccoy/</id>
   <author>
     <name><![CDATA[Mark McCoy]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[.Net wierdness]]></title>
+    <link href="http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/22/dot-net-wierdness/"/>
+    <updated>2013-01-22T21:34:00-06:00</updated>
+    <id>http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/22/dot-net-wierdness</id>
+    <content type="html"><![CDATA[<p>Argh.  Every time I use a Microsoft programming tool or library, I am first initially amazed at how slick it is and how it solves 90% of my problems for me.  The problem is that the other 10% is so hidden away and obscure that it is actually harder to use if they just decided not to hide the underlying functionality.</p>
+
+<p>Maybe ther documentation for the StringDictionary Collection is just not
+telling what I want to hear, or maybe I&#8217;m not understanding it.  I can&#8217;t
+tell whether there are any actual accessors for the keys and values other than iterating through the list.</p>
+
+<p>Sigh.  More work tomorrow.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[the 'other' Mark McCoy]]></title>
