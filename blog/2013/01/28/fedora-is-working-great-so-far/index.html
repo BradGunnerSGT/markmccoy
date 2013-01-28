@@ -5,12 +5,13 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>.Net wierdness - Musically Geeky</title>
+  <title>fedora is working great so far - Musically Geeky</title>
   <meta name="author" content="Mark McCoy">
 
   
-  <meta name="description" content="Argh. Every time I use a Microsoft programming tool or library, I am first
-initially amazed at how slick it is and how it solves 90% of my problems &hellip;">
+  <meta name="description" content="Well, my migration from Ubuntu to Fedora on my workstation at work went
+pretty smoothly. There were a few hiccups (like my SATA to USB dock
+decided &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -19,7 +20,7 @@ initially amazed at how slick it is and how it solves 90% of my problems &hellip
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/22/dot-net-wierdness/">
+  <link rel="canonical" href="http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/28/fedora-is-working-great-so-far/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -83,7 +84,7 @@ initially amazed at how slick it is and how it solves 90% of my problems &hellip
   
   <header>
     
-      <h1 class="entry-title">.Net Wierdness</h1>
+      <h1 class="entry-title">Fedora Is Working Great So Far</h1>
     
     
       <p class="meta">
@@ -99,25 +100,42 @@ initially amazed at how slick it is and how it solves 90% of my problems &hellip
   
 
 
-<time datetime="2013-01-22T21:34:00-06:00" pubdate data-updated="true">Jan 22<span>nd</span>, 2013</time>
+<time datetime="2013-01-28T16:45:00-06:00" pubdate data-updated="true">Jan 28<span>th</span>, 2013</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>Argh.  Every time I use a Microsoft programming tool or library, I am first
-initially amazed at how slick it is and how it solves 90% of my problems for
-me.  The problem is that the other 10% is so hidden away and obscure that it is
-actually harder to use if they just decided not to hide the underlying
-functionality.</p>
+<div class="entry-content"><p>Well, my migration from Ubuntu to Fedora on my workstation at work went
+pretty smoothly.  There were a few hiccups (like my SATA to USB dock
+decided to act up at one point and I had to wait until I scrounged up
+another internal SATA cable to plug the old drive into the motherboard)
+and Fedora had some strangeness at first, but after a <code>yum
+upgrade</code> or two everything was a-ok.</p>
 
-<p>Maybe the documentation for the StringDictionary Collection is just not
-telling what I want to hear, or maybe I&#8217;m not understanding it.  I can&#8217;t
-tell whether there are any actual accessors for the keys and values other than iterating through the list.</p>
+<!-- more -->
 
-<p>Sigh.  I&#8217;m just whining because dictionaries in .Net aren&#8217;t first class data
-citizens like in python or ruby.  More work tomorrow.</p>
+
+<p>The main bit of install-time strangeness was that I had to edit the
+<code>/etc/sysconfig/network</code> file by hand to set my static IP
+instead of DHCP. The network manager utility tried to load into the system tray
+the first time I logged in, but it wouldn&#8217;t come up at first (the error message
+said that it wasn&#8217;t compatible with this version of Fedora any more??), but the
+next day after a <code>yum upgrade</code>it popped up in the system tray at the
+top where it was supposed to be.  That was pretty weird.</p>
+
+<p>I must say, I am liking Gnome 3 very much.  I got used to some of the Unity
+keybindings but the Gnome 3 ones match exactly how I work.  I use a 2 monitor
+configuration and I keep a Byobu terminal open on one screen at all times,
+which is exactly how Gnome 3 does it.  I also prefer to have a single row of
+virtual screens instead of the 2x2 grid.  I rarely used the virtual screen
+feature of Unity until recently, but the Gnome 3 layout makes way more sense.</p>
+
+<p>Canonical has done a great job with Unity, but Gnome 3 seems to fit my workflow
+a lot better.  I also didn&#8217;t like how with the latest version of Ubuntu, the
+Unity menu would take forever to come up.  Fedora with Gnome 3 feels so much
+snappier on the same hardware.</p>
 </div>
 
 
@@ -140,15 +158,21 @@ citizens like in python or ruby.  More work tomorrow.</p>
   
 
 
-<time datetime="2013-01-22T21:34:00-06:00" pubdate data-updated="true">Jan 22<span>nd</span>, 2013</time>
+<time datetime="2013-01-28T16:45:00-06:00" pubdate data-updated="true">Jan 28<span>th</span>, 2013</time>
       
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/linux/'>linux</a>
+  
+</span>
 
 
     </p>
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/22/dot-net-wierdness/" data-via="realmcking" data-counturl="http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/22/dot-net-wierdness/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/28/fedora-is-working-great-so-far/" data-via="realmcking" data-counturl="http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/28/fedora-is-working-great-so-far/" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -161,10 +185,8 @@ citizens like in python or ruby.  More work tomorrow.</p>
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2013/01/17/the-other-mark-mccoy/" title="Previous Post: the 'other' Mark McCoy">&laquo; the 'other' Mark McCoy</a>
+        <a class="basic-alignment left" href="/blog/2013/01/22/dot-net-wierdness/" title="Previous Post: .Net wierdness">&laquo; .Net wierdness</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2013/01/28/fedora-is-working-great-so-far/" title="Next Post: fedora is working great so far">fedora is working great so far &raquo;</a>
       
     </p>
   </footer>
