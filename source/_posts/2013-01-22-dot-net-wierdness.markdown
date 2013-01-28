@@ -3,7 +3,7 @@ layout: post
 title: ".Net wierdness"
 date: 2013-01-22 21:34
 comments: true
-categories: 
+categories: programming
 ---
 
 Argh.  Every time I use a Microsoft programming tool or library, I am first
