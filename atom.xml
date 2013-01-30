@@ -4,7 +4,7 @@
   <title><![CDATA[Musically Geeky]]></title>
   <link href="http://BradGunnerSGT.github.com/markmccoy/atom.xml" rel="self"/>
   <link href="http://BradGunnerSGT.github.com/markmccoy/"/>
-  <updated>2013-01-28T17:34:23-06:00</updated>
+  <updated>2013-01-30T08:41:28-06:00</updated>
   <id>http://BradGunnerSGT.github.com/markmccoy/</id>
   <author>
     <name><![CDATA[Mark McCoy]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[It's the little things in life]]></title>
+    <link href="http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/30/its-the-little-things-in-life/"/>
+    <updated>2013-01-30T08:19:00-06:00</updated>
+    <id>http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/30/its-the-little-things-in-life</id>
+    <content type="html"><![CDATA[<p>Ubuntu has a project that they call their &#8220;One Hundred Paper Cuts&#8221;, where
+people list the little minor annoyances that detract them from truly enjoying
+using Ubuntu.  You know, the little rough edges that annoy you for about two
+seconds every time you rub against them.  Add that up and 2 seconds a day for
+days or weeks or years can get you quite annoyed.  Interested developers or
+uses can then go in and tackle these paper cuts to smooth out the tiny rough
+edges.  I think other large projects could follow this model.</p>
+
+<p>Today I rubbed up against one of these paper cuts in one of my least favorite
+tools ever: Microsoft Active Directory Users and Computers.  I have to use this tool on a
+daily basis and this paper cut gets me ever damn time: when you click on the
+&#8220;search&#8221; button and the search dialog pops up, the focus is not on the &#8220;Name&#8221;
+field (the first text entry field) but on the &#8220;Find Now&#8221; button.</p>
+
+<!-- more -->
+
+
+<p>The most common use case for this dialog box is to search for a user&#8217;s account.
+Why put the focus on the &#8220;Find Now&#8221; button?  All this does is add one extra
+mouse click to the workflow.  &#8220;One extra mouse click, what are you worried
+about that for? You must be on crack.&#8221;, you might say.  Well, I have to say that
+extra mouse click multiple times a day really adds up.</p>
+
+<p><em>Every time</em> I need to use this tool, my mind is intent on getting the search
+dialog up and entering the user&#8217;s id or name to find them and work on their
+account.  Every time I click the search button, my hand goes back from the
+mouse to the keyboard and I start typing, and every time I have to take my hand
+off the keyboard, back to the mouse, and click in the &#8220;Name&#8221; field.</p>
+
+<p>It seems trivial to someone else, but this little paper cut gets me several
+times a day, every day, for years now.  Maybe once we upgrade to a newer
+version of Active Directory the ADUC tool will have this bug fixed.  I can&#8217;t
+understand how it got there in the first place.</p>
+
+<p>Developers!  Use your own products and note the little things that annoy you
+about them.  This will only help your end users in the long run.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[played an excellent gig last Friday]]></title>
