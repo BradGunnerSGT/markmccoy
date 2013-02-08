@@ -7,7 +7,7 @@ categories:  programming
 ---
 
 So I have been asked by my lovely wife to help her out with a project that she
-wants to to at her job.   I can't say too much about it, but it requires some
+wants to do at her job.   I can't say too much about it, but it requires some
 custom software to be written.  We sat down the other day and sketched out some
 initial ideas of what the software would need to do, and how the users would
 use the software (initially just her and a couple others, but later on it could
