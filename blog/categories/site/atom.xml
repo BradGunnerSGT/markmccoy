@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: site | Musically Geeky]]></title>
-  <link href="http://BradGunnerSGT.github.com/markmccoy/blog/categories/site/atom.xml" rel="self"/>
-  <link href="http://BradGunnerSGT.github.com/markmccoy/"/>
-  <updated>2013-02-08T15:46:30-06:00</updated>
-  <id>http://BradGunnerSGT.github.com/markmccoy/</id>
+  <link href="http://markmccoy.us/blog/categories/site/atom.xml" rel="self"/>
+  <link href="http://markmccoy.us/"/>
+  <updated>2013-02-08T15:53:37-06:00</updated>
+  <id>http://markmccoy.us/</id>
   <author>
     <name><![CDATA[Mark McCoy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[welcome to my new site]]></title>
-    <link href="http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/17/welcome-to-my-new-site/"/>
+    <link href="http://markmccoy.us/blog/2013/01/17/welcome-to-my-new-site/"/>
     <updated>2013-01-17T16:59:00-06:00</updated>
-    <id>http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/17/welcome-to-my-new-site</id>
+    <id>http://markmccoy.us/blog/2013/01/17/welcome-to-my-new-site</id>
     <content type="html"><![CDATA[<p>Hey there, I'm setting up my new blog site. It will be dedicated to the things that I am interested in, primarily music and computers.</p>
 ]]></content>
   </entry>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Musically Geeky]]></title>
-  <link href="http://BradGunnerSGT.github.com/markmccoy/atom.xml" rel="self"/>
-  <link href="http://BradGunnerSGT.github.com/markmccoy/"/>
-  <updated>2013-02-08T15:46:30-06:00</updated>
-  <id>http://BradGunnerSGT.github.com/markmccoy/</id>
+  <link href="http://markmccoy.us/atom.xml" rel="self"/>
+  <link href="http://markmccoy.us/"/>
+  <updated>2013-02-08T15:53:37-06:00</updated>
+  <id>http://markmccoy.us/</id>
   <author>
     <name><![CDATA[Mark McCoy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[when work becomes fun and vice versa]]></title>
-    <link href="http://BradGunnerSGT.github.com/markmccoy/blog/2013/02/08/when-work-becomes-fun-and-vice-versa/"/>
+    <link href="http://markmccoy.us/blog/2013/02/08/when-work-becomes-fun-and-vice-versa/"/>
     <updated>2013-02-08T17:02:00-06:00</updated>
-    <id>http://BradGunnerSGT.github.com/markmccoy/blog/2013/02/08/when-work-becomes-fun-and-vice-versa</id>
+    <id>http://markmccoy.us/blog/2013/02/08/when-work-becomes-fun-and-vice-versa</id>
     <content type="html"><![CDATA[<p>So I have been asked by my lovely wife to help her out with a project that she
 wants to to at her job.   I can&#8217;t say too much about it, but it requires some
 custom software to be written.  We sat down the other day and sketched out some
@@ -72,9 +72,9 @@ must be balanced with the needs of my wonderful wife!</p>
   
   <entry>
     <title type="html"><![CDATA[It's the little things in life]]></title>
-    <link href="http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/30/its-the-little-things-in-life/"/>
+    <link href="http://markmccoy.us/blog/2013/01/30/its-the-little-things-in-life/"/>
     <updated>2013-01-30T08:19:00-06:00</updated>
-    <id>http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/30/its-the-little-things-in-life</id>
+    <id>http://markmccoy.us/blog/2013/01/30/its-the-little-things-in-life</id>
     <content type="html"><![CDATA[<p>Ubuntu has a project that they call their &#8220;One Hundred Paper Cuts&#8221;, where
 people list the little minor annoyances that detract them from truly enjoying
 using Ubuntu.  You know, the little rough edges that annoy you for about two
@@ -116,9 +116,9 @@ about them.  This will only help your end users in the long run.</p>
   
   <entry>
     <title type="html"><![CDATA[played an excellent gig last Friday]]></title>
-    <link href="http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/28/played-an-excellent-gig-last-friday/"/>
+    <link href="http://markmccoy.us/blog/2013/01/28/played-an-excellent-gig-last-friday/"/>
     <updated>2013-01-28T17:15:00-06:00</updated>
-    <id>http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/28/played-an-excellent-gig-last-friday</id>
+    <id>http://markmccoy.us/blog/2013/01/28/played-an-excellent-gig-last-friday</id>
     <content type="html"><![CDATA[<p>We had a great show on Friday night at the oddly named &#8220;Cocky Rooster&#8221; bar in
 Comfort, TX.  This is a pretty cool little hole-in-the-wall bar with some
 really laid back and fun people.  There were some regulars that remembered us
@@ -133,9 +133,9 @@ a break to get the juices flowing again.</p>
   
   <entry>
     <title type="html"><![CDATA[fedora is working great so far]]></title>
-    <link href="http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/28/fedora-is-working-great-so-far/"/>
+    <link href="http://markmccoy.us/blog/2013/01/28/fedora-is-working-great-so-far/"/>
     <updated>2013-01-28T16:45:00-06:00</updated>
-    <id>http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/28/fedora-is-working-great-so-far</id>
+    <id>http://markmccoy.us/blog/2013/01/28/fedora-is-working-great-so-far</id>
     <content type="html"><![CDATA[<p>Well, my migration from Ubuntu to Fedora on my workstation at work went
 pretty smoothly.  There were a few hiccups (like my SATA to USB dock
 decided to act up at one point and I had to wait until I scrounged up
@@ -170,9 +170,9 @@ snappier on the same hardware.</p>
   
   <entry>
     <title type="html"><![CDATA[.Net wierdness]]></title>
-    <link href="http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/22/dot-net-wierdness/"/>
+    <link href="http://markmccoy.us/blog/2013/01/22/dot-net-wierdness/"/>
     <updated>2013-01-22T21:34:00-06:00</updated>
-    <id>http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/22/dot-net-wierdness</id>
+    <id>http://markmccoy.us/blog/2013/01/22/dot-net-wierdness</id>
     <content type="html"><![CDATA[<p>Argh.  Every time I use a Microsoft programming tool or library, I am first
 initially amazed at how slick it is and how it solves 90% of my problems for
 me.  The problem is that the other 10% is so hidden away and obscure that it is
@@ -190,9 +190,9 @@ citizens like in python or ruby.  More work tomorrow.</p>
   
   <entry>
     <title type="html"><![CDATA[the 'other' Mark McCoy]]></title>
-    <link href="http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/17/the-other-mark-mccoy/"/>
+    <link href="http://markmccoy.us/blog/2013/01/17/the-other-mark-mccoy/"/>
     <updated>2013-01-17T17:11:00-06:00</updated>
-    <id>http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/17/the-other-mark-mccoy</id>
+    <id>http://markmccoy.us/blog/2013/01/17/the-other-mark-mccoy</id>
     <content type="html"><![CDATA[<p>By the way, if you search Google for my name, you might find markmccoy.com (not
 linking it, you can go there if you want but I don&#8217;t recommend it).  <strong>That is
 not me.</strong>  That guy is a crazy conspiracy theorist and probably my exact
@@ -202,9 +202,9 @@ opposite.  Maybe he&#8217;s a doppelganger who has a goatee (Evil Me).</p>
   
   <entry>
     <title type="html"><![CDATA[welcome to my new site]]></title>
-    <link href="http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/17/welcome-to-my-new-site/"/>
+    <link href="http://markmccoy.us/blog/2013/01/17/welcome-to-my-new-site/"/>
     <updated>2013-01-17T16:59:00-06:00</updated>
-    <id>http://BradGunnerSGT.github.com/markmccoy/blog/2013/01/17/welcome-to-my-new-site</id>
+    <id>http://markmccoy.us/blog/2013/01/17/welcome-to-my-new-site</id>
     <content type="html"><![CDATA[<p>Hey there, I&#8217;m setting up my new blog site. It will be dedicated to the things that I am interested in, primarily music and computers.</p>
 ]]></content>
   </entry>

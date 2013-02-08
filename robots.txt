@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://BradGunnerSGT.github.com/markmccoy/sitemap.xml 
+Sitemap: http://markmccoy.us/sitemap.xml 
