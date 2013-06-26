@@ -1,7 +1,8 @@
 ---
 layout: page
-date: 2013-01-17 16:10
+date: 2013-05-18 15:35
 footer: false
+comments: false
 ---
 
 #Mark D McCoy
@@ -19,16 +20,18 @@ counseling.
 
 
 #Technical Skills
+- Extensive experience implementing Identity Management infrastructure
+including LDAP servers, the Sun Identity Manager product, Microsoft
+Forefront Identity Manager, and Microsoft Active Directory
+- Experience programming in C/C++, Ruby, Python, Perl, Java, PHP, HTML, and bash/zsh/ksh
 - Red Hat Certified Engineer, August 2005, certificate #804005377616305
 - Strong focus on Unix System Administration
-- Experience programming in C/C++, Ruby, Python, Perl, Java, PHP, HTML, and bash/zsh/ksh
-- Over Ten years experience with Linux, including Red Hat (3-9, RHEL, Fedora), Debian, Ubuntu, Gentoo, and Arch Linux
+- Over Fifteen years experience with Linux, including Red Hat (3-9, RHEL, Fedora, CentOS), Debian, Ubuntu
 - Four years experience with Sun Solaris 9 and 10 as a Systems Analyst III
 - Experience managing Microsoft Windows in both Server and Workstation environments, FreeBSD, SCO OpenServer, IBM AIX
 - Experience with Unix Server Software including Apache HTTPD, Tomcat Java
-Application Server, Sun Java Application Server (Glassfish), ISC BIND,
-sendmail and Postfix SMTP, POP/IMAP servers, and MySQL and PostgreSQL Databases
-- Experience implementing Identity Management infrastructure, including LDAP servers and the Sun Identity Manager product
+Application Server, Sun Java Application Server (Glassfish), ISC BIND, sendmail
+and Postfix SMTP, POP/IMAP servers, and MySQL and PostgreSQL Databases
 
 #Professional Experience
 
@@ -37,11 +40,16 @@ sendmail and Postfix SMTP, POP/IMAP servers, and MySQL and PostgreSQL Databases
 San Antonio, Texas
 
 - Responsible for the overall Identity Management infrastructure for UTSA
-- Implemented and maintained Forefront Identity Manager
-- Installed and maintained the Federated identity services at UTSA, including integrating UTSA with the UT System Federation as well as integrating third-party applications
-- Systems administrator for mission-critical Solaris 9/10 servers, including the student email system with over 80,000 accounts
+- Implemented and maintained Forefront Identity Manager 2010
+- Installed and maintained the Single-Sign On / Federated Identity services at
+UTSA, including integrating UTSA with the UT System Federation as well as
+integrating third-party applications
 - Primary LDAP administrator, responsible for installation and maintenance of the Sun Directory Server cluster
-- Responsible for the migration of student email services from an in-house solution to an outsourced solution, including implementing several Single-Sign-On systems
+- Responsible for the migration of student email services from an in-house
+solution to an outsourced solution, including implementing several
+Single-Sign-On systems
+- Systems administrator for mission-critical Solaris 9 and 10 servers,
+including the student email system with over 80,000 accounts
 - Developed software for systems/user management, user provisioning, and task automation
 - Secondary responsibilities include scheduled maintenance, backup adminisitration, storage administration, managing support contracts
 - Implemented software for system monitoring (Nagios), server provisioning (Jumpstart)
