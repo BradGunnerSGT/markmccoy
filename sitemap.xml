@@ -33,8 +33,16 @@
         <lastmod>2013-03-28T17:16:47-05:00</lastmod>
     </url>
     <url>
+        <loc>http://markmccoy.us/robots.txt</loc>
+        <lastmod>2013-01-25T16:32:19-06:00</lastmod>
+    </url>
+    <url>
         <loc>http://markmccoy.us/404.html</loc>
         <lastmod>2013-01-25T16:32:19-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://markmccoy.us/resume/</loc>
+        <lastmod>2013-05-18T15:35:53-05:00</lastmod>
     </url>
     <url>
         <loc>http://markmccoy.us/blog/archives/</loc>
@@ -43,13 +51,5 @@
     <url>
         <loc>http://markmccoy.us/</loc>
         <lastmod>2013-03-28T17:16:47-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://markmccoy.us/resume/</loc>
-        <lastmod>2013-01-25T16:32:19-06:00</lastmod>
-    </url>
-    <url>
-        <loc>http://markmccoy.us/robots.txt</loc>
-        <lastmod>2013-01-25T16:32:19-06:00</lastmod>
     </url>
 </urlset>
