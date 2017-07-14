@@ -1,9 +1,0 @@
----
-layout: page
-title: "Error 404"
-comments: false
-sharing: false
-footer: false
----
-
-Oops, looks like you were looking for a file that doesn't exist or has been moved.  Sorry, Dave's not here, man. :(
